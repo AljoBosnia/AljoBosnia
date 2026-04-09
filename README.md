@@ -1,16 +1,22 @@
-## Hi there 👋
+# Welcome to my GitHub Profile! 🇧🇦🇧🇦🇧🇦
 
-<!--
-**AljoBosnia/AljoBosnia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! 👋 I am from **Mostar, Bosnia**.  
 
-Here are some ideas to get you started:
+I am a passionate football fan:  
+- My favorite club: **FK Velež Mostar** ❤️  
+- Supporter of the **Bosnian national team** 🇧🇦  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Football is life! ⚽  
+
+---
+
+## About Me
+- 🌍 From: Mostar, Bosnia  
+- ⚽ Favorite Club: Velež Mostar  
+- 🇧🇦 Proud Bosnian  
+
+Let's connect and share projects! 🚀
+
+---
+
+🇧🇦🇧🇦🇧🇦🇧🇦🇧🇦🇧🇦🇧🇦🇧🇦🇧🇦🇧🇦
